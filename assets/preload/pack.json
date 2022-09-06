@@ -1,0 +1,6 @@
+{
+	"name": "DustTale 2.0",
+	"description": "A port of DustTale 2.0 done by Sanic#8403",
+	"restart":false,
+	"color": [110, 0, 153]
+}

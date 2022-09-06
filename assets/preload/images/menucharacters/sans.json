@@ -1,0 +1,10 @@
+{
+	"idle_anim": "normal",
+	"image": "sans",
+	"position": [
+		650,
+		96
+	],
+	"scale": 1,
+	"confirm_anim": "angry"
+}
